@@ -15,7 +15,8 @@
    3.2. Subheadings at the second level use **fractional numbering**: "1.1.", "1.2.", etc.  
    3.3. Headings and subheadings are written **in lowercase letters**.  
    3.4. **All headings** must be **numbered** in accordance with their level in the structure of the article. No headings should be left unnumbered.  
-   3.5. **No blank lines** should be placed **after headings**.
+   3.5. **No blank lines** should be placed **after headings**.  
+   3.6. **Headings should start with a capital letter**, but only the first word of the heading should be capitalized unless there are proper nouns or specific terms that require capitalization.
 
 4. **Text separation**  
    4.1. **Each sentence is written on a new line**, even if it continues the previous thought.  
