@@ -19,3 +19,8 @@
 4. **Text separation**  
    4.1. **Each sentence is written on a new line**, even if it continues the previous thought.  
    4.2. **Blank lines** are added only **between paragraphs and headings** to separate the text.
+
+5. **Sentence separation**  
+   5.1. Each sentence in the article must be written on a **new line**.  
+   5.2. Even if a sentence is closely related to the previous one, it must still be placed on a separate line.  
+   5.3. This rule applies to all parts of the article, including tables, headings, and paragraphs.
