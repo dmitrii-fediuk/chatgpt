@@ -1,5 +1,5 @@
-<!-- 2024-10-02 Dmitrii Fediuk https://upwork.com/fl/mage2pro -->
-<!-- «Document my rules for Discourse articles»: https://github.com/dmitrii-fediuk/chatgpt/issues/1 -->
+<!-- 2024-10-02 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+«Document my rules for Discourse articles»: https://github.com/dmitrii-fediuk/chatgpt/issues/1 -->
 
 1. **Article title**  
    1.1. The title is written **without numbering**.  
