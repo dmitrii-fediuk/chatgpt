@@ -12,4 +12,6 @@
    2.3. Headings and subheadings are written **in lowercase letters**.
 
 3. **Text separation**  
-   3.1. **Each sentence is written on a new line**, even
+   3.1. **Each sentence is written on a new line**, even if it continues the previous thought.  
+   3.2. **Blank lines** are added only **between paragraphs and headings** to separate the text.
+
