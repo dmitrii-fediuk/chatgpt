@@ -1,5 +1,5 @@
 <!-- 2024-10-03 Dmitrii Fediuk https://upwork.com/fl/mage2pro
-«Document processing rules for referencing similar topics from Discourse forum topic screenshots»:
+«Document processing rules for referencing similar problems from Discourse forum topic screenshots»:
 https://github.com/dmitrii-fediuk/chatgpt/issues/2 -->
 
 ### 1. Analyzing the content of images  
