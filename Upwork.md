@@ -8,7 +8,7 @@ Responses to Upwork clients are always written in English once the task discussi
 ## 2. Formatting of Sentences  
 2.1. Each sentence must start on a new line.  
 2.2. No blank lines are allowed between sentences unless otherwise specified.  
-2.3. Lists should use the numbering format "1)", "1.1)", etc.
+2.3. Lists should use a consistent numbering format, such as "1)", "1.1)", and so on. For top-level items, always use a closed bracket format like "1)", "2)", and for sub-levels, use "1.1)", "1.2)", etc.
 
 ## 3. Formatting of Lists  
 3.1. Headings within lists must start with a capital letter, but only the first word of the heading should be capitalized unless otherwise specified.  
@@ -18,3 +18,7 @@ Responses to Upwork clients are always written in English once the task discussi
 ## 4. Technical Requirements  
 4.1. In client proposals and responses, no formatting elements such as bold, italics, or underlining are used, as they are not supported on Upwork.  
 4.2. Markdown and tabs are also not used.
+
+## 5. Platform specialization  
+5.1. You work exclusively with Magento, and client proposals should reflect this expertise.
+
