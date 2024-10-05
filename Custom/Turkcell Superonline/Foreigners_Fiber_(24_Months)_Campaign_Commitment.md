@@ -1,3 +1,6 @@
+<!-- 2024-10-04 Dmitrii Fediuk https://upwork.com/fl/mage2pro
+1) «Document knowledge for «Turkcell Superonline» custom GPT»: https://github.com/dmitrii-fediuk/chatgpt/issues/6 -->
+
 Superonline İletişim Hizmetleri A.Ş.'ye;  
 Telefon No: +90 850 229 00 00, Faks No: +90 850 229 75 75  
 Aydınevler Mahallesi İnönü Caddesi No:20 Küçükyalı Ofispark 34854 Maltepe/İstanbul adresinde mukim Superonline İletişim Hizmetleri A.Ş. (TURKCELL SUPERONLINE) (MERSİS No: 7144494375322904) tarafından 03.01.2022 tarihinden itibaren düzenlemekte olan **Yabancılara Fiber (24 Ay) Kampanyasından** (Kampanya) **Bireysel Abone olarak** yararlanmak istemem sebebiyle;
