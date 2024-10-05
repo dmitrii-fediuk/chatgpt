@@ -1,5 +1,6 @@
 <!-- 2024-10-04 Dmitrii Fediuk https://upwork.com/fl/mage2pro
-1) «Document knowledge for «Turkcell Superonline» custom GPT»: https://github.com/dmitrii-fediuk/chatgpt/issues/6 -->
+1) «Document knowledge for «Turkcell Superonline» custom GPT»: https://github.com/dmitrii-fediuk/chatgpt/issues/6 
+2) "Turkcell Superonline: «Yabancılara Fiber (24 Ay) Kampanya Taahhütnamesi»": https://df.tips/t/2400 -->
 
 Superonline İletişim Hizmetleri A.Ş.'ye;  
 Telefon No: +90 850 229 00 00, Faks No: +90 850 229 75 75  
