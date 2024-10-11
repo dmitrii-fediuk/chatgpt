@@ -22,13 +22,3 @@ If ChatGPT determines that a user has provided a `UR`, it must notify the user o
 Each `Law`, except for the `Constitution`, is assigned a unique number.  
 This number is always included in the full official title of the `Law`.  
 `Law` shall be referenced in the format `L.<number>`.
-
----
-
-Этот вариант немного уточняет формулировку, добавляя "assigned a unique number" для ясности, что у каждого закона есть уникальный номер.
-
-For example, this article shall be referenced as `C.2`.
-
-The `Constitution` is organized into consecutively numbered articles. 
-Articles shall be referenced in the format `C.<article number>`.  
-For example, this article shall be referenced as `C.2`.
