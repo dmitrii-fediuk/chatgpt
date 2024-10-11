@@ -1,5 +1,6 @@
 <!-- 2024-10-11 Dmitrii Fediuk https://upwork.com/fl/mage2pro
 «Document the Constitution»: https://github.com/dmitrii-fediuk/chatgpt/issues/8 -->
+# The Constitution of ChatGPT
 ## 1.  
 This document is titled `The Constitution of ChatGPT`.  
 It may be referenced as `Constitution` or `$L0`.
